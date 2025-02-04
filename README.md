@@ -105,19 +105,21 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
+# Person Search Application
 
-This project is open source and available under the [MIT License](LICENSE).
+A web application built with **Next.js** and **React** that allows users to search, view, and edit details of a list of users.
 
-## Acknowledgments
+## Features
 
-- Next.js team for the excellent framework
-- Vercel for the deployment platform
-- Radix UI for the accessible UI components
-- All contributors and supporters of the open-source libraries used in this project
+- **User Search**: A search bar that allows you to search users by their names.
+- **Editable Title**: The title of the page is editable.
+- **User Details**: Displays detailed information of the selected user in a card format.
+- **Responsive UI**: The application is responsive and works well on both desktop and mobile devices.
+- **Dark Mode**: The app supports both light and dark themes.
 
-## Contact
+## Technologies Used
 
-Callum Bir - [@callumbir](https://twitter.com/callumbir) 
-
-Project Link: [https://github.com/gocallum/person-search](https://github.com/gocallum/person-search)
+- **Next.js**: A React framework used to build server-side rendered (SSR) pages.
+- **React**: JavaScript library for building user interfaces.
+- **Tailwind CSS**: A utility-first CSS framework for styling.
+- **JavaScript/TypeScript**: Used for scripting the functionality.
